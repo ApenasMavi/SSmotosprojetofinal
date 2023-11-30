@@ -7,4 +7,10 @@
     <string name="cadastro">cadastro</string>
     <string name="login_erro">login_erro</string>
     <string name="senha_erro">senha_erro</string>
+    <string name="email">email</string>
+    <string name="Cadastrar_Cliente">Cadastrar_Cliente</string>
+    <string name="confirmar_senha">confirmar_senha</string>
+    <string name="entrar">entrar</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="cadastroEfetuado">cadastroEfetuado</string>
 </resources>
